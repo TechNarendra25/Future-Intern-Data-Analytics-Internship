@@ -45,7 +45,7 @@ Analyze digital marketing campaign performance and KPIs.
 ## 📊 Dashboard
 
 <p align="center">
-  <img src="./FUTURE_DS_02-main/FUTURE_DS_02-main/Task2_Dashbord.png" width="900">
+  <img src="./FUTURE_DS_02-main/FUTURE_DS_02-maintask02_dashboard.png" width="900">
 </p>
 
 ## 🔍 Key Insights
