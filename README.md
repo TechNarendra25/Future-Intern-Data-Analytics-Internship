@@ -24,7 +24,7 @@ Analyze sales performance and create an interactive dashboard for business insig
 ## 📊 Dashboard
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TechNarendra25/future-ds-internship-projects/main/FUTURE_DS_01-main/FUTURE_DS_01-main/task01_dashboard.png" width="900">
+  <img src="https://raw.githubusercontent.com/TechNarendra25/future-ds-internship-projects/main/FUTURE_DS_01-main/FUTURE_DS_01-main/E-Commerce%20Sales%20Data%20Dashboard_T1.png" width="900">
 </p>
 
 ## 🔍 Key Insights
